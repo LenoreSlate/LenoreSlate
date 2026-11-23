@@ -50,7 +50,7 @@ An open-source game launcher and gaming platform: game library, player profiles,
 <tr>
 <td width="72" align="center"><b>🎲</b></td>
 <td>
-<b>Heretic</b><br />
+<b>CN: Heretic</b><br />
 An isometric RPG, built with Rust and Bevy (ECS). Maps are edited with Tiled. Work in progress.<br />
 <sub>Rust · Bevy · Tiled</sub>
 </td>
@@ -58,7 +58,7 @@ An isometric RPG, built with Rust and Bevy (ECS). Maps are edited with Tiled. Wo
 <tr>
 <td width="72" align="center"><b>💬</b></td>
 <td>
-<b>Codename: FreeWorld</b><br />
+<b>CN: FreeWorld</b><br />
 A private, encrypted messaging app. It supports custom CSS themes layered over the default one.<br />
 <sub>JavaScript · CSS</sub>
 </td>
