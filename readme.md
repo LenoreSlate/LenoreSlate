@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm LenoreSlate 👋</h1>
 
 <p align="center">
-JavaScript/TypeScipt developer (front &amp; back) and UX/UI designer.<br />
+JavaScript developer (front &amp; back) and UX/UI designer.<br />
 I build side projects and contribute to open-source, community-made tools, mostly around gaming.
 </p>
 
@@ -48,18 +48,26 @@ An open-source game launcher and gaming platform: game library, player profiles,
 
 <table>
 <tr>
+<td width="72" align="center"><a href="https://lenoreslate.com"><b>🌐</b></a></td>
+<td>
+<b><a href="https://lenorslate.com">lenoreslate.com</a></b><br />
+My personal website.<br /><br />
+<img height="18" src="https://img.shields.io/website?url=https%3A%2F%2Flenorslate.com&label=lenorslate.com&up_message=online&down_message=offline&style=flat-square&labelColor=161b22&color=1793D1&logo=googlechrome&logoColor=white" alt="Website status" />
+</td>
+</tr>
+<tr>
 <td width="72" align="center"><b>🎲</b></td>
 <td>
-<b>CN: Heretic</b><br />
-An isometric RPG, built with Rust and Bevy (ECS). Maps are edited with Tiled. Work in progress.<br />
+<b>Heretic</b><br />
+An isometric RPG in the spirit of Fallout 1 &amp; 2, built with Rust and Bevy (ECS). Maps are edited with Tiled. Work in progress.<br />
 <sub>Rust · Bevy · Tiled</sub>
 </td>
 </tr>
 <tr>
 <td width="72" align="center"><b>💬</b></td>
 <td>
-<b>CN: FreeWorld</b><br />
-A private, encrypted messaging app. It supports custom CSS themes layered over the default one.<br />
+<b>FreeWorld</b><br />
+A private, encrypted messaging app in the style of Discord, co-created with a friend. It supports custom CSS themes layered over the default one.<br />
 <sub>JavaScript · CSS</sub>
 </td>
 </tr>
