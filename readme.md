@@ -50,7 +50,7 @@ An open-source game launcher and gaming platform: game library, player profiles,
 <tr>
 <td width="72" align="center"><a href="https://lenoreslate.com"><b>🌐</b></a></td>
 <td>
-<b><a href="https://lenorslate.com">lenoreslate.com</a></b><br />
+<b><a href="https://lenoreslate.com">lenoreslate.com</a></b><br />
 My personal website.<br /><br />
 <img height="18" src="https://img.shields.io/website?url=https%3A%2F%2Flenorslate.com&label=lenorslate.com&up_message=online&down_message=offline&style=flat-square&labelColor=161b22&color=1793D1&logo=googlechrome&logoColor=white" alt="Website status" />
 </td>
