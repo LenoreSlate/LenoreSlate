@@ -52,14 +52,25 @@ An open-source game launcher and gaming platform: game library, player profiles,
 <td>
 <b><a href="https://lenoreslate.com">lenoreslate.com</a></b><br />
 My personal website.<br /><br />
+<sub>Vue · Pinia · Typescript · Cloudflare</sub><br /><br />
 <img height="18" src="https://img.shields.io/website?url=https%3A%2F%2Flenorslate.com&label=lenorslate.com&up_message=online&down_message=offline&style=flat-square&labelColor=161b22&color=1793D1&logo=googlechrome&logoColor=white" alt="Website status" />
 </td>
 </tr>
 <tr>
-<td width="72" align="center"><b>🎧</b></td>
+<td width="72" align="center"><b>🕹️</b></td>
+<td>
+<b><a href="https://github.com/LenoreSlate/HydraR6_wrapper">HydraR6 Wrapper</a></b><br />
+Lightweight and invisible native Rust wrapper to accurately track Rainbow Six Siege playtime on Hydra Launcher.<br />
+<sub>Rust · Windows · Hydra · R6 Siege</sub><br /><br />
+<img height="18" src="https://img.shields.io/github/stars/LenoreSlate/HydraR6_wrapper?label=stars&style=flat-square&labelColor=161b22&color=1793D1&logo=github&logoColor=white" alt="Stars" />
+<img height="18" src="https://img.shields.io/github/license/LenoreSlate/HydraR6_wrapper?label=license&style=flat-square&labelColor=161b22&color=1793D1&logo=opensourceinitiative&logoColor=white" alt="License" />
+</td>
+</tr>
+<tr>
+<td width="72" align="center"><b>🎵</b></td>
 <td>
 <b><a href="https://github.com/LenoreSlate/SoundCloud-Switcher">SoundCloud Switcher</a></b><br />
-A Chrome and Firefox (Manifest V3) browser extension to switch between multiple SoundCloud accounts in one click. Sessions are encrypted with a passphrase (AES-GCM), and the UI is localized in English, French, Spanish, German and Chinese based on the browser language. Successor of <a href="https://github.com/peaufroide/SCswitcher">peaufroide/SCswitcher</a>.<br />
+A Chrome and Firefox (Manifest V3) browser extension to switch between multiple SoundCloud accounts in one click.<br />
 <sub>TypeScript · Manifest V3 · AES-GCM · Playwright</sub><br /><br />
 <img height="18" src="https://img.shields.io/github/stars/LenoreSlate/SoundCloud-Switcher?label=stars&style=flat-square&labelColor=161b22&color=1793D1&logo=github&logoColor=white" alt="Stars" />
 <img height="18" src="https://img.shields.io/github/license/LenoreSlate/SoundCloud-Switcher?label=license&style=flat-square&labelColor=161b22&color=1793D1&logo=opensourceinitiative&logoColor=white" alt="License" />
