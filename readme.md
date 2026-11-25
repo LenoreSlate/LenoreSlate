@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm LenoreSlate 👋</h1>
 
 <p align="center">
-JavaScript developer (front &amp; back) and UX/UI designer.<br />
-I build side projects and contribute to open-source, community-made tools, mostly around gaming.
+Typescript developer and Product designer.<br />
+I build side projects and contribute to open-source, community-made tools, mostly around web & gaming.
 </p>
 
 <p align="center">
