@@ -56,19 +56,13 @@ My personal website.<br /><br />
 </td>
 </tr>
 <tr>
-<td width="72" align="center"><b>🎲</b></td>
+<td width="72" align="center"><b>🎧</b></td>
 <td>
-<b>Heretic</b><br />
-An isometric RPG in the spirit of Fallout 1 &amp; 2, built with Rust and Bevy (ECS). Maps are edited with Tiled. Work in progress.<br />
-<sub>Rust · Bevy · Tiled</sub>
-</td>
-</tr>
-<tr>
-<td width="72" align="center"><b>💬</b></td>
-<td>
-<b>FreeWorld</b><br />
-A private, encrypted messaging app in the style of Discord, co-created with a friend. It supports custom CSS themes layered over the default one.<br />
-<sub>JavaScript · CSS</sub>
+<b><a href="https://github.com/LenoreSlate/SoundCloud-Switcher">SoundCloud Switcher</a></b><br />
+A Chrome and Firefox (Manifest V3) browser extension to switch between multiple SoundCloud accounts in one click. Sessions are encrypted with a passphrase (AES-GCM), and the UI is localized in English, French, Spanish, German and Chinese based on the browser language. Successor of <a href="https://github.com/peaufroide/SCswitcher">peaufroide/SCswitcher</a>.<br />
+<sub>TypeScript · Manifest V3 · AES-GCM · Playwright</sub><br /><br />
+<img height="18" src="https://img.shields.io/github/stars/LenoreSlate/SoundCloud-Switcher?label=stars&style=flat-square&labelColor=161b22&color=1793D1&logo=github&logoColor=white" alt="Stars" />
+<img height="18" src="https://img.shields.io/github/license/LenoreSlate/SoundCloud-Switcher?label=license&style=flat-square&labelColor=161b22&color=1793D1&logo=opensourceinitiative&logoColor=white" alt="License" />
 </td>
 </tr>
 </table>
