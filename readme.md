@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  I build side projects and contribute to open-source tools made by and for communities,<br />
-  mostly around <b>web</b> and <b>gaming</b>. I also write about code and the human side of building things.
-</p>
-
-<p align="center">
   <a href="https://lenoreslate.com/"><img height="24" src="https://img.shields.io/badge/lenoreslate.com-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://lenoreslate.com/heretic"><img height="24" src="https://img.shields.io/badge/dev%20log-Heretic-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=rust&logoColor=white" alt="Heretic dev log" /></a>
   <a href="https://lenoreslate.com/upstream"><img height="24" src="https://img.shields.io/badge/upstream-contributions-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=git&logoColor=white" alt="Open-source contributions" /></a>
@@ -26,8 +21,7 @@
 <tr>
 <td>
 <b><a href="https://lenoreslate.com/heretic">Heretic</a></b> <sub>&nbsp;working title</sub><br />
-A turn-based isometric RPG, built from scratch in Rust and Bevy. Fallout-style tactics, written one system at a time.<br /><br />
-<code>███████████░░░░░░░░░ 55% of the vertical slice</code><br />
+A turn-based isometric RPG, built from scratch in Rust and Bevy. Written one system at a time.<br /><br />
 <sub>Now: <b>M04 · Living enemies</b> — field of view, patrol and spotting behaviour trees, combat AI</sub><br /><br />
 <img height="18" src="https://img.shields.io/badge/Rust-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=rust&logoColor=white" alt="Rust" />
 <img height="18" src="https://img.shields.io/badge/Bevy-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=rust&logoColor=white" alt="Bevy" />
@@ -102,9 +96,6 @@ Standalone GUI that detects, matches and syncs Epic, GOG Galaxy and Steam librar
 <img height="22" src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img height="22" src="https://img.shields.io/badge/Rust-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=rust&logoColor=white" alt="Rust" />
 <img height="22" src="https://img.shields.io/badge/Bevy-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=rust&logoColor=white" alt="Bevy" />
-<img height="22" src="https://img.shields.io/badge/Godot-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=godotengine&logoColor=white" alt="Godot" />
-<img height="22" src="https://img.shields.io/badge/C%23-161b22?style=flat-square&labelColor=161b22&color=1793D1&logo=csharp&logoColor=white" alt="C#" />
-<img height="22" src="https://img.shields.io/badge/UX%20%2F%20UI%20design-161b22?style=flat-square&labelColor=161b22&color=1793D1" alt="UX / UI design" />
 </p>
 
 ### `~/now`
